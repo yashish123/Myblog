@@ -1,0 +1,52 @@
+.nav_my_class{
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
+.movies_head{
+    font-size: 20px;
+    width: 100%;
+    padding: 6px;
+display:inline-block;
+border-radius:10px;
+margin: 5px;
+}
+.movies_head i{
+    float:right
+}
+
+.movies_text span{color: #ff7700;
+ 
+}
+.Environment_li{
+margin-top: 20px;
+}
+.book{
+    cursor: pointer;
+}
+.book hr{
+margin-bottom: 10px;
+}
+.modal-content{
+    margin-top: 100px;
+}
+.modal_img{
+    display: inline-block;
+    width: 300px;
+}
+.modal_P{
+    margin-top: 10px;
+    font-size: medium;
+}
+.modal-body{text-align: center;}
+#yashish{
+   width: 170px;
+   height: 300px;
+   border-radius: 20%;
+
+}
+
+#mainbody{
+background:linear-gradient( #2193b0 0%, #6dd5ed 100%);
+color: whitesmoke;
+}
